@@ -42,4 +42,16 @@ This project was created as an independent portfolio project to demonstrate prac
 ## Disclaimer
 
 This is an independent educational and portfolio project. It is not an official accounting system or tax filing prepared for a real company.
+## Dashboard Preview
 
+### Main Dashboard
+
+![UAE VAT Accounting Dashboard](screenshots/dashboard.png)
+
+### VAT Summary
+
+![VAT Summary](screenshots/vat-summary.png)
+
+### VAT Reconciliation
+
+![VAT Reconciliation](screenshots/vat-reconciliation.png)
